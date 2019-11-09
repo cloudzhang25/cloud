@@ -8,7 +8,9 @@
 1. [git下载地址](https://www.baidu.com)
 2. [github](https://www.baidu.com)
 
-    [![](./images/0%20(1).jpg)](https://www.baidu.com)
+    ![](./images/0%20(1).jpg)
+    
+    ![](./images/0%20(1).jpg)
     
 
 > 总结
